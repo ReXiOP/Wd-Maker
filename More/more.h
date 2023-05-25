@@ -1,0 +1,6 @@
+#ifndef WORDLIST_GENERATOR_MORE_H
+#define WORDLIST_GENERATOR_MORE_H
+
+#endif //WORDLIST_GENERATOR_MORE_H
+
+void info();
